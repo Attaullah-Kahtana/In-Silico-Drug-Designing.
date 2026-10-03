@@ -1,5 +1,5 @@
-# In-Silico-Drug-Designing.
-In Silico Drug Designing for Multidrug-Resistant Mycobacterium tuberculosis (MDR-TB) Targeting Enoyl-Acyl Carrier Protein Reductase (InhA).
+# In-silico-drug-designing.
+In silico drug designing for Multidrug-Resistant Mycobacterium tuberculosis (MDR-TB) targeting enoyl-acyl carrier protein reductase (InhA).
 
 ## Project Overview
 
@@ -66,7 +66,6 @@ The objective of this research was to identify novel lead compounds using comput
 ---
 
 
-
 ## Disclaimer
 
 This project is entirely based on **computational (in silico) analyses**. The identified lead compound requires **experimental validation**, including in vitro and in vivo studies, before any therapeutic conclusions can be drawn.
@@ -75,7 +74,7 @@ This project is entirely based on **computational (in silico) analyses**. The id
 
 ## Author
 
-**Atta Ullah**
+**Attaullah**
 
 B.Sc. (Hons) Bioinformatics
 
